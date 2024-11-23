@@ -29,7 +29,7 @@ Microsoft Planetary Computer Data Catalogue, Landsat collection 2 Level-2 [Data 
 Data.gov Data Catalogue, California Fire Perimeters (all) [Data file] Available from: https://catalog.data.gov/dataset/california-fire-perimeters-all-b3436. Access date: November 22, 2024.
 
 ## Repository Organization
-
+``` python
 eds220-hwk4/
 │
 ├── README.md                     
@@ -53,3 +53,4 @@ eds220-hwk4/
 │   ├── thomas_fire.prj
 │   ├── thomas_fire.shp
 │   ├── thomas_fire.shx
+```
